@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>PM8Ykwhp/2TkaY9wPNWRE+DC9gSvlWLsid1eB8ErcAs=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1962842_git_hu_1.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-25 14:58:10</sys_created_on>
+        <sys_id>4283eeaf5372c7102b8af7e0a0490ea2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1962842_git_hu_1.user</sys_name>
+        <sys_package display_value="Git Hub Integrations" source="x_1962842_git_hu_1">c683eeaf5372c7102b8af7e0a0490e81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Hub Integrations">c683eeaf5372c7102b8af7e0a0490e81</sys_scope>
+        <sys_update_name>sys_user_role_4283eeaf5372c7102b8af7e0a0490ea2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-25 14:58:10</sys_updated_on>
+    </sys_user_role>
+</record_update>
